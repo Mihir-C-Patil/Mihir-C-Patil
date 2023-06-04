@@ -3,8 +3,8 @@ I Play cricket at Kumeu Cricket Club. I am an awardee of the University of Auckl
 
 - 👀 I’m interested in computer programming, cybersecurity, IT consultancy and information systems. I love to play cricket.
 
-- 🌱 I’m currently in my first year of my four year Bachelor of Advanced Science (Honours) in Computer Science. I have some beginner skills in Python, SQL and assembly. 
-I have experience with drawing ER diagrams and have knowledge of basic Big-O principles, recursive logic, algorithms, logic gates, network communications, computer security, and Von Neumann Architecture.
+- 🌱 I’m currently in my second year of my four year Bachelor of Advanced Science (Honours) in Computer Science. I have intermediate skills in Python, SQL and assembly. I have begineer skills in C
+I have experience with drawing ER diagrams and have knowledge of Big-O principles, Running time, recursive logic, algorithms, graph structures, logic gates, network communications, computer security, Von Neumann Architecture, LC-3, cache, stack, queue, etc ADTs. I have certifications in Microsoft Office. I am familiar with SAP S/4 HANA and SAP SOLMAN
 
 - 💞️ I’m looking to collaborate on nothing at the moment, currently studying to develop my knowledge.
 
