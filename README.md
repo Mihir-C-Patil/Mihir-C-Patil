@@ -4,7 +4,7 @@
 
 - 👀 Interested in computer programming, cybersecurity, IT consultancy and information systems. Love to play cricket.
 
-- 🌱 Currently in third year of a four-year Bachelor of Advanced Science (Honours) in Computer Science. Experienced in Python and Java, including Flask and SqlAlchemy, Maven and Jetty. Microsoft Office Specialist. Familiar with with SAP S/4 HANA and SAP SOLMAN
+- 🌱 Currently in third year of a four-year Bachelor of Advanced Science (Honours) in Computer Science. Experienced in Python and Java, including Flask and SqlAlchemy, Maven and Jetty. Microsoft Office Specialist. Familiar with SAP S/4 HANA and SAP SOLMAN
 
 - 📖 Currently studying.
 
