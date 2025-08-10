@@ -6,7 +6,7 @@
 
 - 🌱 Currently in my fourth year of a four-year Bachelor of Advanced Science (Honours) in Computer Science. Experienced in Python and Java, including Flask and SqlAlchemy, Maven and Jetty. Microsoft Office Specialist. Familiar with SAP S/4 HANA and SAP SOLMAN
 
-- 📖 Graduate Teaching Assistant for COMPSCI 210 and COMPSCI 110 at the University of Auckland | Studying at the University of Auckland
+- 📖 Graduate Teaching Assistant for COMPSCI 110, COMPSCI 210, COMPSCI 235, and COMPSCI 340 at the University of Auckland | Studying at the University of Auckland
 
 - 📫 You can reach me via GitHub or email mihirpatilnz@gmail.com
 
