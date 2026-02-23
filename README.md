@@ -8,9 +8,6 @@
 
 - 📫 You can reach me via email: mihirpatilnz@gmail.com
 
-## GitHub Statistics 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir-C-Patil&layout=donut\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/Mihir-C-Patil/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihir-C-Patil&show_icons=true&line_height=28\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-
 <!---
 Mihir-C-Patil/Mihir-C-Patil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
