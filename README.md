@@ -4,7 +4,7 @@
 
 - 👀 Interested in computer programming, cybersecurity, IT consultancy and information systems. Love to play cricket.
 
-- 🌱 Currently a Software Engineer Intern at Serko Ltd and a Computer Science Honours Graduate
+- 🌱 Currently a Software Engineer at (all will be revealed soon) and a Computer Science Honours Graduate
 
 - 📫 You can reach me via email: mihirpatilnz@gmail.com
 
