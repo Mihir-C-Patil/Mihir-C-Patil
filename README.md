@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Mihir. I'm a Full-Stack Software Engineer.
   Awardee of the University of Auckland Parirau Scholarship - Undergraduate.
 
-- 👀 Interested in computer programming, cybersecurity, IT consultancy and information systems. Love to play cricket.
+- 👀 Interested in software engineering, system design, scalable systems, software architecture, and cybersecurity. Love playing cricket and going to the gym.
 
 - 🌱 Currently a Software Engineer at (all will be revealed soon) and a Computer Science Honours Graduate
 
