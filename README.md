@@ -1,10 +1,10 @@
 ## About Me
-- 👋 Hi, I’m Mihir. I'm a Full-Stack Software Engineer.
+- 👋 Hi, I’m Mihir. I'm a Junior Software Engineer at [Halter](https://www.halterhq.com/).
   Awardee of the University of Auckland Parirau Scholarship - Undergraduate.
 
 - 👀 Interested in software engineering, system design, scalable systems, software architecture, and cybersecurity. Love playing cricket and going to the gym.
 
-- 🌱 Currently a Software Engineer at (all will be revealed soon) and a Computer Science Honours Graduate
+- 🌱 Currently a Software Engineer at [Halter](https://www.halterhq.com/) and a Computer Science Honours Graduate
 
 - 📫 You can reach me via email: mihirpatilnz@gmail.com
 
